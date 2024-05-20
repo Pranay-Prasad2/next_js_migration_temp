@@ -31,5 +31,4 @@ export const ENQUIRY_GT = `${CONTEXT_PATH}/users/enquiries_gt`;
 export const GET_TIMESLOTS = `${CONTEXT_PATH}/timeslots`;
 
 // Google API
-export const GOOGLE_MAPS_API_KEY = 'AIzaSyBIMIFPwu-KSDQ6W0EQLrPOvfYHlvJz2M8';
-// export const GOOGLE_MAPS_API_KEY = 'AIzaSyA_Zabmp0xsXwwF64fLoRrd8dL_FTFuZ6M';
+export const GOOGLE_MAPS_API_KEY = '***************************';
